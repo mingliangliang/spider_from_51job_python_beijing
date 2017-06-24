@@ -1,0 +1,2 @@
+# spider_from_51job_python_beijing
+使用scrapy框架爬虫51job，python，北京岗位信息
